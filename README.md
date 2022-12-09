@@ -12,4 +12,10 @@ I removed the information for Chile and Kuwait from the table, as they did not i
 I scrape over their country code from currencyscoop.com and add the country code to my own form for the next currency conversion. Then I use a for loop to iterate through all the countries on my table to convert each country's currency to USD using the currencyscoop.com API.
 ### 4.calculate difference between American price and price from other countries
 I took the converted prices and subtracted the US PS4 prices to calculate the difference between them, simply subtracting 399.00 from each price.
-### 5. plot the difference![download](https://user-images.githubusercontent.com/120219776/206798830-8f47486f-0dfd-4860-afa6-b363192f565b.png)
+### 5. plot the difference
+![download](https://user-images.githubusercontent.com/120219776/206798830-8f47486f-0dfd-4860-afa6-b363192f565b.png)
+I have plotted the difference as a horizontal bar graph using the barh function. You can see that the spreads for most countries are within a very small range, and there are even some countries whose currencies are pegged to the dollar that have no spread at all. But there are a few countries that have very large and negative spreads like Argentina and the Czech Republic.
+### 6. import supplementry data
+To research why the ps4 has such a big price change in these countries, I went to unstats.un.org, Unitednation Department of Economic and Social Affairs
+Statistics and downloaded the GDP per capita for each country in 2020. In this data, I dropped the year and units on the table because we don't need those. For the average expenditure per household, I downloaded the data from another website and did the same manipulate to it.
+I chose 2020 data instead of 2022 because of the lack of statistics for most third world countries, the most recent and complete data is in 2020.
