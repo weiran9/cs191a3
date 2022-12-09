@@ -23,4 +23,8 @@ I chose 2020 data instead of 2022 because of the lack of statistics for most thi
 ![download](https://user-images.githubusercontent.com/120219776/206805775-07561867-481d-44cd-8b4a-5e1e3d9dbf02.png)
 
 ![download](https://user-images.githubusercontent.com/120219776/206804201-2fb3502f-3120-4e06-ab81-a031b9421c52.png)
-
+![download](https://user-images.githubusercontent.com/120219776/206807782-6cb00922-33dd-47ab-852b-2f41dc938546.png)
+![download](https://user-images.githubusercontent.com/120219776/206807799-45523018-b45c-4fde-95b9-3948cad2e3cd.png)
+Above is our graph, (GDP per capita, Household spending, and difference vs GDP and Difference vs Household spending), we can see that most countries are in the middle, meaning that it is close to the price of the United States, we can see the two countries in the lower left corner, their gpa is less so the relative price of PS4 is lower, we also calculated the correlation between them We also calculated the correlation between them, which is 0.12635614035114734 (difference and GDP) and 0.081691010891608518 (difference and Household spending) respectively
+##conclution
+We see that the pricing of the PS4 is relatively reasonable, and it is less expensive in countries with lower GDP
