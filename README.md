@@ -12,3 +12,4 @@ I removed the information for Chile and Kuwait from the table, as they did not i
 I scrape over their country code from currencyscoop.com and add the country code to my own form for the next currency conversion. Then I use a for loop to iterate through all the countries on my table to convert each country's currency to USD using the currencyscoop.com API.
 ### 4.calculate difference between American price and price from other countries
 I took the converted prices and subtracted the US PS4 prices to calculate the difference between them, simply subtracting 399.00 from each price.
+### 5. plot the difference![download](https://user-images.githubusercontent.com/120219776/206798830-8f47486f-0dfd-4860-afa6-b363192f565b.png)
