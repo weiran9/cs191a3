@@ -19,3 +19,8 @@ I have plotted the difference as a horizontal bar graph using the barh function.
 To research why the ps4 has such a big price change in these countries, I went to unstats.un.org, Unitednation Department of Economic and Social Affairs
 Statistics and downloaded the GDP per capita for each country in 2020. In this data, I dropped the year and units on the table because we don't need those. For the average expenditure per household, I downloaded the data from another website and did the same manipulate to it.
 I chose 2020 data instead of 2022 because of the lack of statistics for most third world countries, the most recent and complete data is in 2020.
+### 7. plot graphs
+![download](https://user-images.githubusercontent.com/120219776/206805775-07561867-481d-44cd-8b4a-5e1e3d9dbf02.png)
+
+![download](https://user-images.githubusercontent.com/120219776/206804201-2fb3502f-3120-4e06-ab81-a031b9421c52.png)
+
